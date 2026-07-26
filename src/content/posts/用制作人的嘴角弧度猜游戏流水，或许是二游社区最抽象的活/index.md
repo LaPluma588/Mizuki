@@ -105,10 +105,10 @@ lang: zh-CN
 
 首先这版本的CG和对话场景灵动性高了太多，之前「春晓时」版本的水准已经很不错了，现在甚至更好。每个角色的微表情和动作都很丰富自然，情绪表达更流畅，卖萌更萌。剧情里有个李织烟捏咕咕嘎嘎脸，以及小葱闪现过来靠近镜头的片段，差点给我萌晕。
 
-![](https://i0.hdslb.com/bfs/new_dyn/5b01d24d3a189418123929b53cb1c2b496575424.gif@1184w_620h.webp)
+<img src="https://i0.hdslb.com/bfs/new_dyn/5b01d24d3a189418123929b53cb1c2b496575424.gif" alt="" style="width:100%;display:block;margin:2em auto">
 
 
-![](https://i0.hdslb.com/bfs/new_dyn/e9fa580b971733c055cd103ee285986096575424.gif@1192w.webp)
+<img src="https://i0.hdslb.com/bfs/new_dyn/e9fa580b971733c055cd103ee285986096575424.gif" alt="" style="width:100%;display:block;margin:2em auto">
 
 
 我没测过海猫的微笑，但确实仔细观察过终末地角色在动画里的嘴角上扬系数。这两个核心章节版本中，角色的微表情非常细致，而且她们能做出一些不是单纯开心或害羞，而是更复杂，更接近真人的表情，像是同时有几种情绪在表情里融合。
