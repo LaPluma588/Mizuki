@@ -28,6 +28,7 @@ import { GithubCardComponent } from "./src/plugins/rehype-component-github-card.
 import { ImageGridComponent } from "./src/plugins/rehype-component-image-grid.mjs";
 import { rehypeImageWidth } from "./src/plugins/rehype-image-width.mjs";
 import { rehypeMermaid } from "./src/plugins/rehype-mermaid.mjs";
+import { rehypeImageNoReferrer } from "./src/plugins/rehype-image-no-referrer.mjs";
 import { rehypeWrapTable } from "./src/plugins/rehype-wrap-table.mjs";
 import { remarkContent } from "./src/plugins/remark-content.mjs";
 import { parseDirectiveNode } from "./src/plugins/remark-directive-rehype.js";
@@ -207,6 +208,7 @@ export default defineConfig({
 				rehypeSlug,
 				rehypeWrapTable,
 				rehypeMermaid,
+				rehypeImageNoReferrer,
 				[
 					rehypeComponents,
 					{
